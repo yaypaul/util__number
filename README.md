@@ -5,7 +5,7 @@ I created these utilities some time ago for my own projects. They will have gone
 I finally found the time to make proper repros and read me files so I could upload them. I hope you find them as useful as I do!
 
 ### Version
-2.1
+2.2
 
 # Installation
 As these are Prototypes and not framework functions, all you need to do is load the file as part of your stack. I recommend after your other library includes.
@@ -30,6 +30,7 @@ Parses a number and rounds it in a manner similar to Facebook.
 ```
 
 # Change Log
+2.2 Adjusted comments to match read me. Updated code layout for readability.
 2.1 Added addRounding function.  
 2.0 Rebuilt script to be prototypes instead of framework functions.  
 1.0 Added addCommas function.  
